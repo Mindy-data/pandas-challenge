@@ -1,7 +1,5 @@
 # pandas-challenge
 
-This was by far the most difficult homeowrk yet, it required me to spend hours on askBCS this week and keep getting help with my errors. I had no tutor support this week and I completed this assignment entirely on my own with the help of learning assistants. 
-
 I used many different pandas functions to slice and dice this information and gain valueable insights into the correlations of budget, size and student success. 
 
 District Summary-
